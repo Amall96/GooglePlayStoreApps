@@ -31,7 +31,7 @@ the data set contains 10841 Apps and the following 13 features
 
 
 ### Tools:
-the main tools that will be used a Jupyter Notebook and different types of Python libraries such as:
+The main tools that will be used are Jupyter Notebook and different types of Python libraries such as:
 * Numpy 
 * Pandas
 * Matplotlib  
