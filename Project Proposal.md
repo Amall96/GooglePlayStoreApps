@@ -1,10 +1,7 @@
 
- <h1  align="center">  Project Proposal
+ <h1  align="center">  Project Proposal </p>
 
-</p>
-</p>
-</p>
-</p>
+
 
 ### Question/need:
 
@@ -12,8 +9,8 @@ The objective of this project is to understand the main factors affecting Google
 know what type of free & paid apps are likely to attract more users, which apps users prefer to pay for, and what is the most Category app users tend to download
 
 ### Data Description:
-To achieve the goal of this study, I will use the dataset from kaggle (https://www.kaggle.com/lava18/google-play-store-apps)
-the data set contains 10841 Apps and the following 13 features 
+To achieve the goal of this study, I will use the dataset from Kaggle (https://www.kaggle.com/lava18/google-play-store-apps)
+the dataset contains 10841 row and the following 13 features 
 
 1. App: Application name
 2. Category: Category of app
