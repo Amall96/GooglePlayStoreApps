@@ -8,11 +8,11 @@
 
 ### Question/need:
 
-The objective of this project is to understand the main factors affecting Google Play Store Apps, this study aims to to help developers to
+The objective of this project is to understand the main factors affecting Google Play Store Apps, this study aims to help developers to
 know what type of free & paid apps are likely to attract more users, which apps users prefer to pay for, and what is the most Category app users tend to download
 
 ### Data Description:
-To achieve the goal of this study, I used the dataset from kaggle (https://www.kaggle.com/lava18/google-play-store-apps)
+To achieve the goal of this study, I will use the dataset from kaggle (https://www.kaggle.com/lava18/google-play-store-apps)
 the data set contains 10841 Apps and the following 13 features 
 
 1. App: Application name
