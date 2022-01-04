@@ -1,6 +1,6 @@
 
 
-The goal of this project is to understand the main factors affecting Google Play Store Apps
+The goal of this project is to understand the main factors affecting Google Play Store Apps and how to make a successful Android App
 
 
 After Data cleaning, I found that Free apps are more popular than the Paid apps
