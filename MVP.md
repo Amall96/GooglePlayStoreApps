@@ -15,7 +15,7 @@ Also, the higher rated apps get more reviews
 
 
 
-The most frequent Categories in our dataset are Family, Game, and Tools 
+The most frequent Categories in the dataset are Family, Game, and Tools 
 
 
 <img width="657" alt="image" src="https://user-images.githubusercontent.com/48456553/148127061-e5988c3f-a21d-4983-9e93-2ba611499b36.png">
